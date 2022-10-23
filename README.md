@@ -6,7 +6,7 @@ UNIVERSITAS PELITA BANGSA
 membuat layout sederhana </p>
 di sini menggunakan html dan css 
 maka di perlukannya 
- /*<link rel="stylesheet" href="##">*/
+ #/<link rel="stylesheet" href="##">/#
 pertama membuat navigation terlebih dahulu seperti di gambar </p>
 ![gambar 1](screenshoot/gambar%201.png)
 tambah kan css untuk merubah desain sesuai yang di inginkan</p>
